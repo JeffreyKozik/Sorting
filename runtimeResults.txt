@@ -1,0 +1,4 @@
+An array of size 250000 takes 23174600 nanoseconds to run.
+An array of size 500000 takes 46588000 nanoseconds to run.
+An array of size 1000000 takes 98019600 nanoseconds to run.
+An array of size 1250000 takes 125378600 nanoseconds to run.
